@@ -10,5 +10,5 @@
 
 .contactListItem {
     width: calc((100% - 38px) / 4);
-    margin-right: 30px;
+    margin-right: 15px;
 }
